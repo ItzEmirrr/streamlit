@@ -1,5 +1,4 @@
 import streamlit as st
-import pygwalker as pyg
 import pandas as pd
 import sys
 
